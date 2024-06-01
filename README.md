@@ -1,16 +1,14 @@
-Unscramble app
+Unscramble app from Google Code Labs
 =================================
 
 Single player game app that displays scrambled words. To play the game, player has to make a
 word using all the letters in the displayed scrambled word.
 This code demonstrates the Android Architecture component- ViewModel and StateFlow.
 
+![image](https://github.com/jvoye23/Unscramble/assets/80949826/8fdc500b-6643-4caf-8b37-f6c68061e3ae)
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+
+
 
 
 Getting Started
